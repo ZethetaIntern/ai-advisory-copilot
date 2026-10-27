@@ -1,0 +1,20 @@
+{
+  "source": "RBI DBIE / documented long-term CPI averages",
+  "note": "Using documented long-term averages. General CPI ~5-6%, Education ~8-10%, Medical ~8-10%",
+  "assumptions": {
+    "general": 0.06,
+    "education": 0.1,
+    "medical": 0.09,
+    "housing": 0.07
+  },
+  "historical_cpi_annual": {
+    "2019": 4.8,
+    "2020": 6.2,
+    "2021": 5.1,
+    "2022": 6.7,
+    "2023": 5.4,
+    "2024": 4.9,
+    "2025": 5.2
+  },
+  "data_date": "2026-10-27"
+}

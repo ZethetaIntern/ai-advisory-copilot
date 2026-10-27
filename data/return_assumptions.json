@@ -1,0 +1,26 @@
+{
+  "source": "Historical long-term averages from AMFI/BSE/NSE data. NOT guarantees.",
+  "disclaimer": "Past performance is not indicative of future results. These are assumptions for planning purposes only.",
+  "expected_returns_nominal": {
+    "equity_large_cap": 0.12,
+    "equity_flexi_cap": 0.13,
+    "equity_mid_cap": 0.14,
+    "equity_small_cap": 0.15,
+    "hybrid_balanced": 0.1,
+    "debt_short_duration": 0.07,
+    "debt_liquid": 0.06,
+    "gold": 0.08,
+    "nifty_50_index": 0.12
+  },
+  "volatility_annual": {
+    "equity_large_cap": 0.18,
+    "equity_flexi_cap": 0.2,
+    "equity_mid_cap": 0.24,
+    "equity_small_cap": 0.28,
+    "hybrid_balanced": 0.12,
+    "debt_short_duration": 0.04,
+    "debt_liquid": 0.01,
+    "gold": 0.15,
+    "nifty_50_index": 0.18
+  }
+}

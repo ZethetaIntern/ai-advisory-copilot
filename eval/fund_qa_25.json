@@ -1,0 +1,227 @@
+[
+  {
+    "id": "q01",
+    "category": "FACTUAL_TER",
+    "question": "What is the Direct Plan Expense Ratio (TER) of Parag Parikh Flexi Cap Fund?",
+    "gold_answer": "0.68%",
+    "gold_doc": "PPFAS_FlexiCap_Factsheet_Oct2026.pdf",
+    "gold_page": 2,
+    "should_refuse": false
+  },
+  {
+    "id": "q02",
+    "category": "FACTUAL_EXIT_LOAD",
+    "question": "What is the exit load for redeeming units within 1 year in Parag Parikh Flexi Cap Fund?",
+    "gold_answer": "2.00%",
+    "gold_doc": "PPFAS_FlexiCap_Factsheet_Oct2026.pdf",
+    "gold_page": 2,
+    "should_refuse": false
+  },
+  {
+    "id": "q03",
+    "category": "FACTUAL_BENCHMARK",
+    "question": "What is the benchmark index for HDFC Top 100 Fund?",
+    "gold_answer": "NIFTY 100 TRI",
+    "gold_doc": "HDFC_Top100_Factsheet_Oct2026.pdf",
+    "gold_page": 1,
+    "should_refuse": false
+  },
+  {
+    "id": "q04",
+    "category": "FACTUAL_MIN_SIP",
+    "question": "What is the minimum monthly SIP amount for SBI Small Cap Fund?",
+    "gold_answer": "Rs 500",
+    "gold_doc": "SBI_SmallCap_Factsheet_Oct2026.pdf",
+    "gold_page": 2,
+    "should_refuse": false
+  },
+  {
+    "id": "q05",
+    "category": "FACTUAL_MANAGER",
+    "question": "Who manages the HDFC Mid-Cap Opportunities Fund and for how long?",
+    "gold_answer": "Chirag Setalvad (15.0 years)",
+    "gold_doc": "HDFC_MidCap_Factsheet_Oct2026.pdf",
+    "gold_page": 1,
+    "should_refuse": false
+  },
+  {
+    "id": "q06",
+    "category": "FACTUAL_AUM",
+    "question": "What is the total AUM of Parag Parikh Flexi Cap Fund?",
+    "gold_answer": "Rs 72,500 Crores",
+    "gold_doc": "PPFAS_FlexiCap_Factsheet_Oct2026.pdf",
+    "gold_page": 1,
+    "should_refuse": false
+  },
+  {
+    "id": "q07",
+    "category": "FACTUAL_RISKOMETER",
+    "question": "What is the riskometer classification of HDFC Short Term Debt Fund?",
+    "gold_answer": "MODERATE",
+    "gold_doc": "HDFC_ShortTerm_Factsheet_Oct2026.pdf",
+    "gold_page": 1,
+    "should_refuse": false
+  },
+  {
+    "id": "q08",
+    "category": "FACTUAL_EXIT_LOAD",
+    "question": "What is the exit load for HDFC Short Term Debt Fund?",
+    "gold_answer": "Nil",
+    "gold_doc": "HDFC_ShortTerm_Factsheet_Oct2026.pdf",
+    "gold_page": 1,
+    "should_refuse": false
+  },
+  {
+    "id": "q09",
+    "category": "FACTUAL_FOREIGN_EQUITY",
+    "question": "What is the current foreign equity allocation percentage in Parag Parikh Flexi Cap Fund?",
+    "gold_answer": "14.8%",
+    "gold_doc": "PPFAS_FlexiCap_Factsheet_Oct2026.pdf",
+    "gold_page": 2,
+    "should_refuse": false
+  },
+  {
+    "id": "q10",
+    "category": "FACTUAL_TER",
+    "question": "What is the Direct Plan Expense Ratio of Axis Bluechip Fund?",
+    "gold_answer": "0.95%",
+    "gold_doc": "Axis_Bluechip_Factsheet_Oct2026.pdf",
+    "gold_page": 1,
+    "should_refuse": false
+  },
+  {
+    "id": "q11",
+    "category": "FACTUAL_INCEPTION",
+    "question": "When was the inception launch date of Parag Parikh Flexi Cap Fund?",
+    "gold_answer": "May 28, 2013",
+    "gold_doc": "PPFAS_FlexiCap_Factsheet_Oct2026.pdf",
+    "gold_page": 1,
+    "should_refuse": false
+  },
+  {
+    "id": "q12",
+    "category": "FACTUAL_CREDIT_QUALITY",
+    "question": "What percentage of HDFC Short Term Debt Fund is in AAA or Sovereign debt instruments?",
+    "gold_answer": "94.2%",
+    "gold_doc": "HDFC_ShortTerm_Factsheet_Oct2026.pdf",
+    "gold_page": 1,
+    "should_refuse": false
+  },
+  {
+    "id": "q13",
+    "category": "FACTUAL_MANDATE",
+    "question": "What is the minimum Indian equity allocation requirement in the SID of Parag Parikh Flexi Cap Fund?",
+    "gold_answer": "65%",
+    "gold_doc": "PPFAS_FlexiCap_SID.pdf",
+    "gold_page": 14,
+    "should_refuse": false
+  },
+  {
+    "id": "q14",
+    "category": "FACTUAL_AUM",
+    "question": "What is the AUM of HDFC Top 100 Fund?",
+    "gold_answer": "Rs 33,450 Crores",
+    "gold_doc": "HDFC_Top100_Factsheet_Oct2026.pdf",
+    "gold_page": 1,
+    "should_refuse": false
+  },
+  {
+    "id": "q15",
+    "category": "FACTUAL_MIN_SIP",
+    "question": "What is the minimum SIP amount for HDFC Top 100 Fund?",
+    "gold_answer": "Rs 100",
+    "gold_doc": "HDFC_Top100_Factsheet_Oct2026.pdf",
+    "gold_page": 2,
+    "should_refuse": false
+  },
+  {
+    "id": "q16",
+    "category": "FACTUAL_MANAGER",
+    "question": "Who manages the SBI Small Cap Fund?",
+    "gold_answer": "R. Srinivasan",
+    "gold_doc": "SBI_SmallCap_Factsheet_Oct2026.pdf",
+    "gold_page": 1,
+    "should_refuse": false
+  },
+  {
+    "id": "q17",
+    "category": "FACTUAL_PORTFOLIO",
+    "question": "What is the annual portfolio turnover ratio of SBI Small Cap Fund?",
+    "gold_answer": "22.4%",
+    "gold_doc": "SBI_SmallCap_Factsheet_Oct2026.pdf",
+    "gold_page": 2,
+    "should_refuse": false
+  },
+  {
+    "id": "q18",
+    "category": "FACTUAL_YIELD",
+    "question": "What is the Yield to Maturity (YTM) of HDFC Short Term Debt Fund?",
+    "gold_answer": "7.42%",
+    "gold_doc": "HDFC_ShortTerm_Factsheet_Oct2026.pdf",
+    "gold_page": 1,
+    "should_refuse": false
+  },
+  {
+    "id": "q19",
+    "category": "UNANSWERABLE_CRYPTO",
+    "question": "What is the Bitcoin and cryptocurrency allocation inside HDFC Top 100 Fund?",
+    "gold_answer": "Not found in the provided sources.",
+    "gold_doc": null,
+    "gold_page": null,
+    "should_refuse": true
+  },
+  {
+    "id": "q20",
+    "category": "UNANSWERABLE_GUARANTEE",
+    "question": "Can Parag Parikh Flexi Cap Fund guarantee an annualized return of 25% for the next 5 years?",
+    "gold_answer": "Not found in the provided sources.",
+    "gold_doc": null,
+    "gold_page": null,
+    "should_refuse": true
+  },
+  {
+    "id": "q21",
+    "category": "UNANSWERABLE_UNLISTED",
+    "question": "What is the loan-to-value ratio for gold jewellery loans in Axis Bluechip Fund?",
+    "gold_answer": "Not found in the provided sources.",
+    "gold_doc": null,
+    "gold_page": null,
+    "should_refuse": true
+  },
+  {
+    "id": "q22",
+    "category": "UNANSWERABLE_OUT_OF_UNIVERSE",
+    "question": "What is the management fee charged by BlackRock Global Allocation Fund?",
+    "gold_answer": "Not found in the provided sources.",
+    "gold_doc": null,
+    "gold_page": null,
+    "should_refuse": true
+  },
+  {
+    "id": "q23",
+    "category": "UNANSWERABLE_PENNY_STOCK",
+    "question": "How many shares of Suzlon penny stock does HDFC Short Term Debt Fund hold?",
+    "gold_answer": "Not found in the provided sources.",
+    "gold_doc": null,
+    "gold_page": null,
+    "should_refuse": true
+  },
+  {
+    "id": "q24",
+    "category": "UNANSWERABLE_FOREX",
+    "question": "What is the maximum leverage allowed for trading EUR/USD forex derivatives in SBI Small Cap Fund?",
+    "gold_answer": "Not found in the provided sources.",
+    "gold_doc": null,
+    "gold_page": null,
+    "should_refuse": true
+  },
+  {
+    "id": "q25",
+    "category": "UNANSWERABLE_REAL_ESTATE",
+    "question": "What is the rental yield of commercial real estate properties owned directly by Parag Parikh Flexi Cap Fund?",
+    "gold_answer": "Not found in the provided sources.",
+    "gold_doc": null,
+    "gold_page": null,
+    "should_refuse": true
+  }
+]
